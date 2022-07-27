@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-144f3b40","path":"/arch/","title":"Arch","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657100923000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"arch/README.md"}');export{e as data};
